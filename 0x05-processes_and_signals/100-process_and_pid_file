@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # Does the following:
-#   Create a file /var/run/holbertonscript.pid containing the script PID.
+#   Create a file /var/run/myscript.pid containing the script PID.
 #   Displays "To infinity and beyond" indefinitely
 #   Displays "I hate the kill command" upon receiving a SIGTERM
 #   Displays "Y U no love me?!" upon receiving a SIGINT
-#   Deletes the file /var/run/holbertonscript.pid and terminates upon
+#   Deletes the file /var/run/myscript.pid and terminates upon
 #+  receiving a SIGQUIT or SIGTERM.
 
 echo $$ > /var/run/myscript.pid
