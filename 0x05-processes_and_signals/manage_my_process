@@ -2,8 +2,8 @@
 # Indefinitely writes "I am alive" to the file /tmp/my_process.
 #   Pauses two seconds in between each message.
 
-while true
+while "true"
 do
-  echo "I am alive!" >> /tmp/my_process
-  sleep 2
+	echo "I am alive!" > /tmp/my_process
+	sleep 2
 done
