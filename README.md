@@ -1,2 +1,2 @@
-# ALX - System engineering & DevOps
-### System engineering & DevOps
+# ALX - System Engineering & DevOps
+### System Engineering & DevOps
