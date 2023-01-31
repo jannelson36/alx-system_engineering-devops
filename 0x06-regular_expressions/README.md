@@ -1,7 +1,7 @@
 # Regular expression
 
 ## Highlights
-For this project, I have to build your regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. 
+For this project, I have to build my regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. 
 
 * Note that other regular expression libraries sometimes have different properties.
 * The first line of all my Bash scripts are exactly #!/usr/bin/env ruby
