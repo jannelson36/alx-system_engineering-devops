@@ -1,11 +1,11 @@
 # Regular expression
 
 ## Highlights
-For this project, you have to build your regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
+For this project, I have to build your regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. 
 
-
-* The first line of all your Bash scripts should be exactly #!/usr/bin/env ruby
-* All your regex must be built for the Oniguruma library
+* Note that other regular expression libraries sometimes have different properties.
+* The first line of all my Bash scripts are exactly #!/usr/bin/env ruby
+* All my regex are built for the Oniguruma library
 
 ## Tasks :page_with_curl:
 
